@@ -1,0 +1,41 @@
+#create-acct {
+    display: none;
+}
+
+#cr-btn {
+    width: 200px;
+    height: 50px;
+    justify-self: center;
+    background-color: rgb(57, 165, 42);
+    border: none;
+    color: var(--text-color);
+    font-size: 18px;
+}
+
+#cr-btn:hover {
+    cursor: pointer;
+}
+
+#cr-btn:focus {
+    outline: 2px solid rgba(13, 81, 207, 0.733);
+}
+
+#cr-cancel {
+    width: 70px;
+    height: 30px;
+    justify-self: center;
+    background-color: rgba(0, 0, 0, 0);
+    outline: none;
+    border: none;
+    color: var(--text-color);
+    font-size: 18px;
+}
+
+#cr-cancel:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#cr-cancel:focus {
+    text-decoration: underline;
+}
