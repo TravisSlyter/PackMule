@@ -1036,14 +1036,5 @@ function createFoodKit() {
         alert('Success! Your account has been created, you can now log in.');
     }
 
-
-    
-
-
-
-
-
-
-
 //}) ();
 
